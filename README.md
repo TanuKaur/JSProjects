@@ -7,3 +7,7 @@ Project List
 1.Counter App
 
   Live Link: https://counter-webapplication.netlify.app/
+
+2.Share Modal App
+
+  Live Link: https://share-modal-tanukaur.netlify.app/
