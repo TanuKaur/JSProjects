@@ -11,3 +11,7 @@ Project List
 2.Share Modal App
 
   Live Link: https://share-modal-tanukaur.netlify.app/
+
+3.Password Generator App
+
+  Live Link: https://passwordgenerator-web-app.netlify.app/
