@@ -15,3 +15,7 @@ Project List
 3.Password Generator App
 
   Live Link: https://passwordgenerator-web-app.netlify.app/
+
+4.Weather App
+
+  Live Link: https://weather-applicationlive.netlify.app/
