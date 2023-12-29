@@ -19,3 +19,7 @@ Project List
 4.Weather App
 
   Live Link: https://weather-applicationlive.netlify.app/
+
+5.Tic-Tac-Toe App
+
+  Live Link: https://tictactoe-game-webapp.netlify.app/
