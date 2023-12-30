@@ -23,3 +23,7 @@ Project List
 5.Tic-Tac-Toe App
 
   Live Link: https://tictactoe-game-webapp.netlify.app/
+
+6.Dev Detective
+
+  Live Link: https://devdetective-githubprofiles.netlify.app/
